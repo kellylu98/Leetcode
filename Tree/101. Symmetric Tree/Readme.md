@@ -15,3 +15,6 @@ Base case: ```if(left == NULL || right == NULL) return left == right; ```
         bool result = outside && inside;
         return result;
 ```
+
+
+[Leetcode Link](https://leetcode.com/problems/symmetric-tree/)
