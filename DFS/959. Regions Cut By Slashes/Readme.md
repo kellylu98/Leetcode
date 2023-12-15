@@ -43,4 +43,5 @@ In this example, the middle diagonal now has enough room to search for other dia
 经过上述一系列操作之后，我们就将这道题转换成了200.Number of Islands,水是1，陆地是0
 
 [Leetcode Link](https://leetcode.com/problems/regions-cut-by-slashes/)
+
 [200.Number of Islands](https://leetcode.com/problems/number-of-islands/)
