@@ -41,3 +41,6 @@ However, if we would scale this to a factor of 3, we get:
 In this example, the middle diagonal now has enough room to search for other diagonal using just 4 directions and the following result would be 3.
 
 经过上述一系列操作之后，我们就将这道题转换成了200.Number of Islands,水是1，陆地是0
+
+[Leetcode Link](https://leetcode.com/problems/regions-cut-by-slashes/)
+[200.Number of Islands](https://leetcode.com/problems/number-of-islands/)
