@@ -7,8 +7,11 @@
 For example, given ["//", "/ "], the corresponding graph would be something like:
 
 [ ][/][ ][/]
+
 [/][ ][/][ ]
+
 [ ][/][ ][ ]
+
 [/][ ][ ][ ]
 
 If we used a scale of size 2 here, the answer would be 5, when it should be 3. Why you may ask? It's because the diagonal in the middle cannot locate the diagonals next to it because we search only top, right, bottom, and left. 
