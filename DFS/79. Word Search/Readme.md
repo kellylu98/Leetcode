@@ -1,4 +1,4 @@
-### 79. Word Search
+### 79. Word Search(经典DFS）
 
 **base case里必须要有一个判断正确的条件**，本题就是当```idxOfWord >= word.size()```时，返回true，这样才能确定DFS(...)的结果为true还是false
 
