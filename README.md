@@ -7,7 +7,7 @@
 [65.Valid Number](https://github.com/kellylu98/Leetcode/blob/main/Others/65.%20Valid%20Number/Readme.md)
 
 #### [DFS](https://github.com/kellylu98/Leetcode/tree/main/DFS)
-[经典DFS 79. Word Search]()
+[经典DFS 79. Word Search](https://github.com/kellylu98/Leetcode/tree/main/DFS/79.%20Word%20Search)
 
 [501. Find Mode in Binary Search Tree](https://github.com/kellylu98/Leetcode/blob/main/DFS/501.%20Find%20Mode%20in%20Binary%20Search%20Tree/Readme.md)
 
