@@ -12,3 +12,7 @@
 [501. Find Mode in Binary Search Tree](https://github.com/kellylu98/Leetcode/blob/main/DFS/501.%20Find%20Mode%20in%20Binary%20Search%20Tree/Readme.md)
 
 [959. Regions Cut By Slashes](https://github.com/kellylu98/Leetcode/blob/main/DFS/959.%20Regions%20Cut%20By%20Slashes/Readme.md)
+
+
+#### [String](https://github.com/kellylu98/Leetcode/tree/main/String)
+[481. Magical String]()
