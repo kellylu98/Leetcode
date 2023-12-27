@@ -15,4 +15,4 @@
 
 
 #### [String](https://github.com/kellylu98/Leetcode/tree/main/String)
-[481. Magical String]()
+[481. Magical String](https://github.com/kellylu98/Leetcode/blob/main/String/481.%20Magical%20String/Readme.md)
